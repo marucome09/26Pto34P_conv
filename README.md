@@ -58,6 +58,6 @@ Power Cable(~20cm)
 
 # License
 
-This product is CC BY-NC-SA 4.0
+CC BY-NC-SA 4.0
 
 [![ccbyncsa](https://komtmt.files.wordpress.com/2015/04/by-nc-sa.png?w=150&h=52)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja) 
