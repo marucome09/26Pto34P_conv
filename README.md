@@ -52,8 +52,6 @@ Power Cable(~20cm)
 
 ・一部FDDで動作しない可能性があります（Samsung SFD-321シリーズなど：ロットによって基板に相当の差異があるため）
 
-# Author
-
 # License
 
 CC BY-NC-SA 4.0
