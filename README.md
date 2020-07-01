@@ -1,5 +1,7 @@
 # 26Pto34P_conv
 
+![product26](https://github.com/marucome09/26Pto34P_conv/product26.JPG )
+
 This is 26P FDD I/F(Mitsumi/Newtronics D357B) convert to FDD for PC
 
 (or a gotek with FlashFloppy)compatible.
