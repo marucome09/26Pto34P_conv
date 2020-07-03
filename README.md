@@ -49,11 +49,15 @@ Power Cable(~20cm)
 
 ![solder2](https://github.com/marucome09/26Pto34P_conv/blob/master/solder2.JPG )
 
+下の写真では基板の向きが上下逆です（コネクタは切り欠きが下向きになってます・・・）
+
 ![solder3](https://github.com/marucome09/26Pto34P_conv/blob/master/solder3.JPG )
 
-![box_socket](https://github.com/marucome09/26Pto34P_conv/blob/master/box_socket.JPG )
+電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせて2pピンヘッダをつけます。
 
-上の写真で見るとわかりますが、電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせて2pピンヘッダをつけます。
+（シルク印刷されてますが写真では見にくいので強調しました）
+
+![box_socket](https://github.com/marucome09/26Pto34P_conv/blob/master/box_socket.JPG )
 
 もしくはケーブル直付けでも構いません。
 
