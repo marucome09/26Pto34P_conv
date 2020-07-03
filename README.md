@@ -35,7 +35,7 @@ Designed to be attached directly to FDD(or emulator).
 
 Power Cable(~20cm)
 
-※他のコネクタでも代用可能
+※他のコネクタでも代用可能、また基板直付けでもOK
 
 
 # Usage
