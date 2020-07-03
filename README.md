@@ -49,7 +49,7 @@ Power Cable(~20cm)
 
 ![solder2](https://github.com/marucome09/26Pto34P_conv/blob/master/solder2.JPG )
 
-![solder3(https://github.com/marucome09/26Pto34P_conv/blob/master/solder3.JPG )
+![solder3](https://github.com/marucome09/26Pto34P_conv/blob/master/solder3.JPG )
 
 ![box_socket](https://github.com/marucome09/26Pto34P_conv/blob/master/box_socket.JPG )
 
