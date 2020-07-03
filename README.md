@@ -45,6 +45,12 @@ Power Cable(~20cm)
 
 まず、基板表面に26Pボックスヘッダを、中央の切り欠きを下向きにしてつけ、裏側から34Pピンソケットを取り付け、それぞれはんだ付けします。
 
+![solder1](https://github.com/marucome09/26Pto34P_conv/blob/master/solder1.JPG )
+
+![solder2](https://github.com/marucome09/26Pto34P_conv/blob/master/solder2.JPG )
+
+![solder3(https://github.com/marucome09/26Pto34P_conv/blob/master/solder3.JPG )
+
 ![box_socket](https://github.com/marucome09/26Pto34P_conv/blob/master/box_socket.JPG )
 
 上の写真で見るとわかりますが、電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせて2pピンヘッダをつけます。
