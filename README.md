@@ -84,6 +84,6 @@ Y-E DATA YD-702D
 
 # License
 
-CC BY-NC-SA 4.0
+This Product is CC BY-NC-SA 4.0
 
 [![ccbyncsa](https://komtmt.files.wordpress.com/2015/04/by-nc-sa.png?w=150&h=52)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja) 
