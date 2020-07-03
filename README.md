@@ -45,17 +45,17 @@ Power Cable(~20cm)
 
 まず、基板表面に26Pボックスヘッダを、中央の切り欠きを下向きにしてつけ、裏側から34Pピンソケットを取り付け、それぞれはんだ付けします。
 
-![product26](https://github.com/marucome09/26Pto34P_conv/blob/master/box_socet.JPG )
+![box_socket](https://github.com/marucome09/26Pto34P_conv/blob/master/box_socket.JPG )
 
 上の写真で見るとわかりますが、電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせて2pピンヘッダをつけます。
 
 もしくはケーブル直付けでも構いません。
 
-![product26](https://github.com/marucome09/26Pto34P_conv/blob/master/power_header.JPG )
+![power_header](https://github.com/marucome09/26Pto34P_conv/blob/master/power_header.JPG )
 
 上に合わせてケーブルを作成し取り付けて完成です。
 
-![product26](https://github.com/marucome09/26Pto34P_conv/blob/master/power_conn.JPG )
+![power_conn](https://github.com/marucome09/26Pto34P_conv/blob/master/power_conn.JPG )
 
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
@@ -63,7 +63,7 @@ Power Cable(~20cm)
 
 このような感じでFDD（写真はGotek FDDエミュレーターです）に取り付けます。
 
-![product26](https://github.com/marucome09/26Pto34P_conv/blob/master/fit_example.JPG )
+![example](https://github.com/marucome09/26Pto34P_conv/blob/master/fit_example.JPG )
 
 # Note
 
