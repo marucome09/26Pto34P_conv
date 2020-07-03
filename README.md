@@ -17,6 +17,7 @@ Designed to be attached directly to FDD(or emulator).
 
 またこのボードは、Gotek　フロッピーエミュレーター（FlashFloppyファームウェア）と相性が良くなるように設計されています。
 
+
 # Requirement 制作に必要な部品
 
 34P(17x2) pin-socket / 34ピン　ピンソケット（FDDコネクタ直差し用）
@@ -51,6 +52,11 @@ Power Cable(~20cm)
 ・一部FDDには取り付け不可能です（ミツミ D353M3Dなど、電源コネクタが信号コネクタの真上にある場合など）
 
 ・一部FDDで動作しない可能性があります（Samsung SFD-321シリーズなど：ロットによって基板に相当の差異があるため）
+
+☆なお、下記のFDDで簡易チェックはパスしています（これ以外のFDDでも現物ご送付いただければ確認します、一度ご連絡ください）
+　できればFlashFloppyのファームウェアに書き換えたGotek FDDエミュレーターを推奨します。
+
+Y-E DATA YD-702D
 
 # License
 
