@@ -15,7 +15,8 @@ Designed to be attached directly to FDD(or emulator).
 
 設計上直接FDDに取り付けられるので、場所を取らず、両面テープを用意する必要がありません。
 
-またこのボードは、Gotek　フロッピーエミュレーター（FlashFloppyファームウェア）と相性が良くなるように設計されています。
+純正の回路(XS051)と互換性があります。
+
 
 
 # Requirement 制作に必要な部品
@@ -88,7 +89,6 @@ Power Cable(~20cm)
 ・一部FDDで動作しない可能性があります（Samsung SFD-321シリーズなど：ロットによって基板に相当の差異があるため）
 
 ☆なお、下記のFDDで簡易チェックはパスしています（これ以外のFDDでも現物ご送付いただければ確認します、一度ご連絡ください）
-　できればFlashFloppyのファームウェアに書き換えたGotek FDDエミュレーターを推奨します。
 
 Y-E DATA YD-702D
 
