@@ -40,7 +40,7 @@ Power Cable(~20cm)
 ※他のコネクタでも代用可能、また基板直付けでもOK
 
 
-# Usage
+# Making
 
 コネクタ類を写真のようにはんだ付けします。
 
@@ -71,6 +71,8 @@ Power Cable(~20cm)
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
 ![product26](https://github.com/marucome09/26Pto34P_conv/blob/master/FDD_power.JPG )
+
+# Usage
 
 このような感じでFDD（写真はGotek FDDエミュレーターです）に取り付けます。
 
