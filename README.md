@@ -10,6 +10,8 @@ This is 26P FDD I/F(Mitsumi/Newtronics D357B) convert to FDD for PC(or a gotek w
 
 (Yamaha SY77/SY99/V50に使用されています)
 
+FDDの後方に余裕がない機器用に、アダプタータイプ26Pto34P_relayもあります。
+
 # Features　おすすめポイント
 Designed to be attached directly to FDD(or emulator).
 
