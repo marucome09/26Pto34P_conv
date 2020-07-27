@@ -70,9 +70,7 @@ Power Cable(~20cm)
 
 もしくはケーブル直付けでも構いません。
 
-![power_header](https://github.com/marucome09/26Pto34P_conv/blob/master/power_header.JPG )
-
-上に合わせてケーブルを作成し取り付けて完成です。
+ケーブルを作成し取り付けて完成です。
 
 ![power_conn](https://github.com/marucome09/26Pto34P_conv/blob/master/power_conn.JPG )
 
