@@ -2,13 +2,13 @@
 
 ![product26](https://github.com/marucome09/26Pto34P_conv/blob/master/product26.JPG )
 
-This is 26P FDD I/F(Mitsumi/Newtronics D357B) convert to FDD for PC(or a gotek with FlashFloppy)compatible.
-
-(26P I/F used to Yamaha SY77/SY99/V50)
-
 ミツミ D357B FDD用の26Pinの信号線を、PC用34Pに変換するボードです。
 
+This is 26P FDD I/F(Mitsumi/Newtronics D357B) convert to FDD for PC(or a gotek with FlashFloppy)compatible.
+
 (同FDDはYamaha SY77/SY99/V50に使用されています)
+
+(26P I/F used to Yamaha SY77/SY99/V50)
 
 FDDの後方に余裕がない機器用に、アダプタータイプ26Pto34P_relayもあります。
 
